@@ -4,3 +4,5 @@
 * The data was preprocessed using Snowball stemming and lemmatization to normalize words to their canonical form
 * Over 30 000 Tweets were scraped using the Twitter API and cross-referenced with a static CSV dataset for accuracy
 * The scraped dataset was serialized into a pickle file to improve future scraping efficiency through de-serialization
+* Visualization of the distribution of polarity and subjectivity values was performed using Kernel Distribution Estimate (KDE) plots and Histograms 
+
